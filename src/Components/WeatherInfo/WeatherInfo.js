@@ -1,5 +1,5 @@
 import axios from "axios";
-const baseUrl = "http://api.openweathermap.org/data/2.5/weather?";
+const baseUrl = "https://api.openweathermap.org/data/2.5/weather?";
 const apiKey = "08258fc2397ad270f2ddef0264be6f73";
 
 const units = '&units=metric'
